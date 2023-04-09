@@ -1,7 +1,7 @@
 INSTALLATION:
 
 Step 1: 
-ensure wtx_antitriggers bunu server.cfg de tüm scriptlerin üstüne yazmanız lazım.
+ensure wtx_antitriggers you need to write this above all scripts in server.cfg.
 
 Step 2:
 type wtx_install on cmd and restart server after the ready text on cmd.
